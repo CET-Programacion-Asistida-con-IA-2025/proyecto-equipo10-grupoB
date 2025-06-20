@@ -1,6 +1,14 @@
 ## Grupo B - Equipo 10
 _Curso de Programación Asistida con IA - Chicas en Tecnología_ 🚀
 
+
+
+
+⚠️⚠️**Cambiaron de repositorio - Usan este: https://github.com/CET-Programacion-Asistida-con-IA-2025/Proyecto-Equipo-10**⚠️⚠️
+
+
+
+
 En este repositorio, se presenta el sitio web realizado durante el curso de programación frontend de CET.
 
 ### 📄 Entregas
